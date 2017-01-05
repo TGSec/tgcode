@@ -69,7 +69,7 @@ decode()
 
     import tgcode
 
-    encoded_data = '_=}oง}vง}vง}y=SG}=}yง}Bง}vง}n=H' #the encoded string
+    encoded_data = '_=}oยง}vยง}vยง}y=SG}=}yยง}Bยง}vยง}n=H' #the encoded string
 
     data = tgcode.decode(encoded_data) #decodes the string
 
@@ -146,6 +146,5 @@ Author
 ======
 | The author of this tool wants to be called as "thegamerbr1". In
  case of bugs, ideas or help, contact: 
-| Skype: xthegamerbr1x
+| Email: tgb1@protonmail.com
 | Telegram: @thegamerbr1 
-| Email (slow response): xthegamerbr1x@gmail.com
